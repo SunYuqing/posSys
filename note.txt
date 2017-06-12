@@ -1,0 +1,9 @@
+1.在页面中使用了Element组件，这样他会自动给我们生产虚拟DOM，我们无法设置高度100%；
+  这时候可以利用javascript，来设置100%高度问题。先要给我们的<el-col>标签上添加一个id，我们这里把ID设置为
+  order-list。然后在vue构造器里使用mounted钩子函数来设置高度。
+    mounted:function(){
+        var orderHeight=document.body.clientHeight;
+        document.getElementById("order-list").style.height=orderHeight+'px';
+    }
+2.引入element-ui组件库时不要忘记引入单独引入样式文件：
+    import 'element-ui/lib/theme-default/index.css';
