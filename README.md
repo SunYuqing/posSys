@@ -2,7 +2,7 @@
 
 ### 技术栈：
 
-    *vue + vuex + vue-router + axios + element-ui + webpack + stylus + es6*
+    *vue + vuex + vue-router + element-ui + webpack + stylus + es6*
 
 ### 技能栈
 
