@@ -11,8 +11,8 @@
 
 ### 项目截图
 
-<img src="img/pos-1.png" alt="" width='800' height='330'>
-<img src="img/pos-2.png" alt="" width='800' height='330'>
+<img src="img/pos-1.PNG" alt="" width='800' height='330'>
+<img src="img/pos-2.PNG" alt="" width='800' height='330'>
 
 ### 在线demo
 
